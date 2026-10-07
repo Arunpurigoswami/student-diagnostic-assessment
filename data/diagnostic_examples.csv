@@ -1,0 +1,2 @@
+question,reference_answer,rubric,student_answer,score,reasoning_steps,first_error_step,error_type,evidence_span,feedback
+"Example placeholder question","Example reference answer","Example rubric","Example student answer",0,"",,,"",""
