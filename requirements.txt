@@ -5,3 +5,5 @@ pydantic
 scikit-learn
 sentence-transformers
 numpy
+openai
+pytest

@@ -3,6 +3,8 @@ __pycache__/
 .venv/
 venv/
 .env
+.env.*
+!.env.example
 .streamlit/
 .pytest_cache/
 .DS_Store
